@@ -5,6 +5,7 @@
 👋 Olá! Meu nome é Allan, sou formado em **Sistemas de Informação** e desde cedo desenvolvi uma paixão por tecnologia. Comecei minha jornada na cidade de São Paulo, mas atualmente moro no interior de Minas Gerais, onde continuo aprimorando minhas habilidades e explorando o desenvolvimento FullStack.
 
 🚀 Minha paixão pelo desenvolvimento vai além do código: gosto de entender todo o processo de criação de uma aplicação, desde o planejamento até a entrega final. Atualmente, estou focado em desenvolver bases sólidas e robustas para meus projetos, utilizando **containers** e **testes automatizados** para garantir qualidade e escalabilidade.
+
 ---
 
 ### 🛠️ Linguagens e Tecnologias
